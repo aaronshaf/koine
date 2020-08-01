@@ -2,7 +2,11 @@
 
 * [ὁ Ἀλφάβητος](https://www.youtube.com/watch?v=pr1laRMrw64) (YouTube), by Luke Ranieri
 
-## Communicative courses
+## Courses
+
+* [Biblical Greek](https://www.biblicaltraining.org/biblical-greek/william-mounce), by Bill Mounce
+
+### Communicative
 
 * [Biblical Language Center](https://www.biblicallanguagecenter.com/)
 * [Communicative Koine](https://www.youtube.com/playlist?list=PLpxcmJ23ymcWL0Hx5kndU1zS5m6iQFL_8) (YouTube playlist), by Paul D. Nitz
