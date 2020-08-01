@@ -17,3 +17,4 @@
 * [koinegreek.com](https://www.koinegreek.com/)
 * [koine-greek.com](https://koine-greek.com/)
 * [How to pronounce χαῖρε in Greek - Ancient, Koine, Byzantine, Modern](https://www.youtube.com/watch?v=yCv5dK1DOgw)
+* [Greek Grammar terms in Greek](https://thepatrologist.com/wp-content/uploads/2020/07/Greek-Grammar-Terms-Cheat-Sheet.pdf), by by Seumas Macdonald
