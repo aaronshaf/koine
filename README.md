@@ -1,6 +1,7 @@
 ## Communicative courses
 
 * [Biblical Language Center](https://www.biblicallanguagecenter.com/)
+* [Communicative Koine](https://www.youtube.com/playlist?list=PLpxcmJ23ymcWL0Hx5kndU1zS5m6iQFL_8), by Paul D. Nitz
 
 ## YouTube channels
 
