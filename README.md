@@ -5,7 +5,7 @@
 ## Communicative courses
 
 * [Biblical Language Center](https://www.biblicallanguagecenter.com/)
-* [Communicative Koine](https://www.youtube.com/playlist?list=PLpxcmJ23ymcWL0Hx5kndU1zS5m6iQFL_8), by Paul D. Nitz
+* [Communicative Koine](https://www.youtube.com/playlist?list=PLpxcmJ23ymcWL0Hx5kndU1zS5m6iQFL_8) (YouTube playlist), by Paul D. Nitz
 
 ## YouTube channels
 
@@ -18,4 +18,4 @@
 * [koine-greek.com](https://koine-greek.com/)
 * [How to pronounce χαῖρε in Greek - Ancient, Koine, Byzantine, Modern](https://www.youtube.com/watch?v=yCv5dK1DOgw)
 * [Greek Grammar terms in Greek](https://thepatrologist.com/wp-content/uploads/2020/07/Greek-Grammar-Terms-Cheat-Sheet.pdf) (PDF), by by Seumas Macdonald
-* [Greek Grammar in Greek](http://scholiastae.org/docs/el/greek_grammar_in_greek.pdf), by William S. Annis
+* [Greek Grammar in Greek](http://scholiastae.org/docs/el/greek_grammar_in_greek.pdf) (PDF), by William S. Annis
