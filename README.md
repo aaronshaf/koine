@@ -1,6 +1,6 @@
 ## Alphabet
 
-* [ὁ Ἀλφάβητος](https://www.youtube.com/watch?v=pr1laRMrw64&feature=youtu.be), by Luke Ranieri
+* [ὁ Ἀλφάβητος](https://www.youtube.com/watch?v=pr1laRMrw64) (YouTube), by Luke Ranieri
 
 ## Communicative courses
 
@@ -17,4 +17,5 @@
 * [koinegreek.com](https://www.koinegreek.com/)
 * [koine-greek.com](https://koine-greek.com/)
 * [How to pronounce χαῖρε in Greek - Ancient, Koine, Byzantine, Modern](https://www.youtube.com/watch?v=yCv5dK1DOgw)
-* [Greek Grammar terms in Greek](https://thepatrologist.com/wp-content/uploads/2020/07/Greek-Grammar-Terms-Cheat-Sheet.pdf), by by Seumas Macdonald
+* [Greek Grammar terms in Greek](https://thepatrologist.com/wp-content/uploads/2020/07/Greek-Grammar-Terms-Cheat-Sheet.pdf) (PDF), by by Seumas Macdonald
+* [Greek Grammar in Greek](http://scholiastae.org/docs/el/greek_grammar_in_greek.pdf), by William S. Annis
