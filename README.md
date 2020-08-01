@@ -24,3 +24,9 @@
 * [Greek Grammar terms in Greek](https://thepatrologist.com/wp-content/uploads/2020/07/Greek-Grammar-Terms-Cheat-Sheet.pdf) (PDF), by by Seumas Macdonald
 * [Greek Grammar in Greek](http://scholiastae.org/docs/el/greek_grammar_in_greek.pdf) (PDF), by William S. Annis
 * [Learn to Type Polytonic Greek](https://greektyping.com/)
+
+---
+
+## To read later
+
+* [At a Loss for Words: How a flawed idea is teaching millions of kids to be poor readers](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
