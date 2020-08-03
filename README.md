@@ -7,6 +7,7 @@
 ## Courses
 
 * [Biblical Greek](https://www.biblicaltraining.org/biblical-greek/william-mounce), by Bill Mounce
+* [Athenaze](https://athenaze.com/introduction/), by John Schwandt
 
 ### Communicative
 
