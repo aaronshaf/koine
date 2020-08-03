@@ -1,6 +1,6 @@
 # Learning Objectives
 
-- [ ] Pronunciation differences
-- [ ] Alphabet, pronunciations
-- [ ] Diphthongs
-- [ ] Syllabification
+* Pronunciation differences
+* Alphabet, pronunciations
+* Diphthongs
+* Syllabification
