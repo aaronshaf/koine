@@ -1,3 +1,5 @@
+## [Learning objectives](LEARNING_OBJECTIVES.md)
+
 ## Alphabet
 
 * [ὁ Ἀλφάβητος](https://www.youtube.com/watch?v=pr1laRMrw64) (YouTube), by Luke Ranieri
