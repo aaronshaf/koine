@@ -7,7 +7,7 @@
 ## Pronunciation
 
 * [Pronunciation](https://www.youtube.com/watch?v=VWOjBulEyrs) (YouTube), by Randall Buth
-* [Lucian Pronunciation of Ancient Greek](https://www.youtube.com/watch?v=Dt9z5Gvp3MM) (YouTube), by Luke Ranieri
+* [Lucian Pronunciation of Ancient Greek](https://www.youtube.com/watch?v=Dt9z5Gvp3MM) (YouTube), by Luke Ranieri - "The Lucian Pronunciation of Ancient Greek... is a system that is historically valid, aesthetically pleasing, pedagogically useful, and unifying among standards."
 
 ## Courses
 
