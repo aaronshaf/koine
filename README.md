@@ -1,6 +1,7 @@
 ## Alphabet
 
 * [ὁ Ἀλφάβητος](https://www.youtube.com/watch?v=pr1laRMrw64) (YouTube), by Luke Ranieri
+* [The Greek Alphabet (Koine Era Pronunciation)](https://www.youtube.com/watch?v=94B26pJM2fg) (YouTube), by Tim McNinch
 * [Part 1](https://www.youtube.com/watch?v=duHaoX4x7sg), [Part 2](https://www.youtube.com/watch?v=KNrX5CyoSok), [Part 3](https://www.youtube.com/watch?v=VQANoG5p1I0), [Part 4](https://www.youtube.com/watch?v=JqNnB-qwadM)  (YouTube), by Biblingo
 
 ## Courses
