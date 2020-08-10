@@ -1,4 +1,4 @@
-## Memorizaing Lemmas
+## Memorizing Lemmas
 
 > "Mounce et al have students learn lemmas, or lexical forms. For example, the
 student learns λαμβάνω as ‘I take.’ When she opens her Greek NT, however, she may
