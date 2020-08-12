@@ -12,6 +12,11 @@
 * [Pronunciation](https://www.youtube.com/watch?v=VWOjBulEyrs) (YouTube), by Randall Buth
 * [Lucian Pronunciation of Ancient Greek](https://www.youtube.com/watch?v=Dt9z5Gvp3MM) (YouTube), by Luke Ranieri - "The Lucian Pronunciation of Ancient Greek... is a system that is historically valid, aesthetically pleasing, pedagogically useful, and unifying among standards."
 
+## Conversation
+
+* [A short guide to asking meaning-based questions in Greek](https://thepatrologist.com/wp-content/uploads/2020/08/Greek-Question-Words.pdf) (PDF), compiled by Seumas Macdonald
+* [Greek Grammar terms in Greek](https://thepatrologist.com/wp-content/uploads/2020/07/Greek-Grammar-Terms-Cheat-Sheet.pdf) (PDF), compiled by Seumas Macdonald
+
 ## Courses
 
 * [Biblical Greek](https://www.biblicaltraining.org/biblical-greek/william-mounce), by Bill Mounce
@@ -40,7 +45,6 @@
 * [koinegreek.com](https://www.koinegreek.com/)
 * [koine-greek.com](https://koine-greek.com/)
 * [How to pronounce χαῖρε in Greek - Ancient, Koine, Byzantine, Modern](https://www.youtube.com/watch?v=yCv5dK1DOgw)
-* [Greek Grammar terms in Greek](https://thepatrologist.com/wp-content/uploads/2020/07/Greek-Grammar-Terms-Cheat-Sheet.pdf) (PDF), by by Seumas Macdonald
 * [Greek Grammar in Greek](http://scholiastae.org/docs/el/greek_grammar_in_greek.pdf) (PDF), by William S. Annis
 * [Learn to Type Polytonic Greek](https://greektyping.com/)
 
