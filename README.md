@@ -54,6 +54,7 @@
 
 * [Philippians 1 in Koine](https://archive.org/details/philippians01), by Mark Jeong - "pronunciation is similar to Randall Buth's"
 * [Philemon in Koine](https://archive.org/details/philemon_201912), by Mark Jeong
+* [Athenaze](https://www.youtube.com/watch?v=rsKhcHpYk00), by Luke Ranieri
 
 ---
 
