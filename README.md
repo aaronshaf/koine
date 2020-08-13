@@ -65,7 +65,14 @@
 
 ### People
 
-### Koine reconstruction
+#### Divinity studies
+
+* Bill Mounce
+* N. Clayton Croy
+* David Alan Black
+* Rodney Decker
+
+#### Koine reconstruction
 
 * Christophe Rico
 * Randall Buth
