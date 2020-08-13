@@ -65,6 +65,8 @@
 
 ### People
 
+### Koine reconstruction
+
 * Christophe Rico
 * Randall Buth
 * Benjamin Kantor
