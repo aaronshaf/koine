@@ -75,19 +75,31 @@
 
 ## Relative Pronouns
 
-* [Relative Pronoun](https://www.biblicaltraining.org/lecture/26874], Bill Mounce
+* [Relative Pronoun](https://www.biblicaltraining.org/lecture/26874], by Bill Mounce
 
 ## Verbs
 
+* [Introduction to Verbs](https://www.biblicaltraining.org/lecture/26875), by Bill Mounce
+
 ## Present Active Indicative
+
+* [Present Active Indicative](https://www.biblicaltraining.org/lecture/26876), by Bill Mounce
 
 ## Contract Verbs
 
+* [Contract Verbs](https://www.biblicaltraining.org/lecture/26877), by Bill Mounce
+
 ## Present Middle/Passive Indicative
+
+* [Present Middle/Passive Indicative](https://www.biblicaltraining.org/lecture/26878), by Bill Mounce
 
 ## Future Active and Middle Indicative
 
+* [Future Active/Middle Indicative](https://www.biblicaltraining.org/lecture/26879), by Bill Mounce
+
 ## Verbal Roots (Patterns 2 – 4)
+
+* [Verbal Roots and Other Forms of the Future](https://www.biblicaltraining.org/lecture/26880), by Bill Mounce
 
 ---
 
