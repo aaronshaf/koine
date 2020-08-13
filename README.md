@@ -16,7 +16,7 @@
 
 ## Conversation
 
-* [A short guide to asking meaning-based questions in Greek](https://thepatrologist.com/wp-content/uploads/2020/08/Greek-Question-Words.pdf) (PDF), compiled by Seumas Macdonald
+* [A short guide to asking meaning-based questions in Greek](https://thepatrologist.com/2020/08/12/greek-question-words-for-talking-about-stuff/) (PDF), compiled by Seumas Macdonald
 * [Greek Grammar terms in Greek](https://thepatrologist.com/2020/07/21/a-cheat-sheet-for-greek-grammar-terms/) (PDF), compiled by Seumas Macdonald
 
 ## Courses
