@@ -67,6 +67,8 @@
 * [At a Loss for Words: How a flawed idea is teaching millions of kids to be poor readers](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
 * [B-Greek: The Biblical Greek Forum](https://www.ibiblio.org/bgreek/forum/index.php)
 * [Sixth Renaissance](https://www.youtube.com/watch?v=-ZwJKvvdQTI), by Christophe Rico
+* [Mounce overheads for The Basics of Biblical Greek](http://ntgreek.org/swc/GreekCO411/mounce.pdf) (PDF)
+* [biblicallanguages.net course handouts](https://biblicallanguages.net/language-courses-i-teach/greek-grammar-i-first-year-course/course-handouts/) (PDFs)
 
 ### People
 
