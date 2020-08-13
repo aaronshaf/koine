@@ -48,6 +48,11 @@
 * [Greek Grammar in Greek](http://scholiastae.org/docs/el/greek_grammar_in_greek.pdf) (PDF), by William S. Annis
 * [Learn to Type Polytonic Greek](https://greektyping.com/)
 
+
+## Audio
+
+* [Philippians 1 in Koine](https://archive.org/details/philippians01), by Mark Jeong - "pronunciation is similar to Randall Buth's"
+
 ---
 
 ## Unsorted
