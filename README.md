@@ -1,5 +1,6 @@
 ## Alphabet
 
+* [The Alphabet and Pronunciation](https://www.biblicaltraining.org/alphabet-and-pronunciation/biblical-greek), by Bill Mounce
 * [ὁ Ἀλφάβητος](https://www.youtube.com/watch?v=pr1laRMrw64) (YouTube), by Luke Ranieri
 * [Greek Alphabet Song (Koine Pronunciation)](https://www.youtube.com/watch?v=ac29qW_hrDU), by Logos Bible Software
 * [The Greek Alphabet (Koine Era Pronunciation)](https://www.youtube.com/watch?v=94B26pJM2fg) (YouTube), by Tim McNinch
@@ -8,6 +9,7 @@
 
 ## Pronunciation
 
+* [The Alphabet and Pronunciation](https://www.biblicaltraining.org/alphabet-and-pronunciation/biblical-greek), by Bill Mounce
 * [Pronunciation](https://www.youtube.com/watch?v=VWOjBulEyrs) (YouTube), by Randall Buth
 * The Role for Pronunciation in Koine Greek: [YouTube](https://www.youtube.com/watch?v=VWOjBulEyrs), [PDF](https://www.biblicallanguagecenter.com/wp-content/uploads/2019/05/Role-Greek-Pronunciation-Buth-Handout-2019-SEBTS.pdf), by Randall Buth
 * [Lucian Pronunciation of Ancient Greek](https://www.youtube.com/watch?v=Dt9z5Gvp3MM) (YouTube), by Luke Ranieri - "The Lucian Pronunciation of Ancient Greek... is a system that is historically valid, aesthetically pleasing, pedagogically useful, and unifying among standards." Claims to be closer to Modern Greek _and_ more historically accurate.
@@ -15,35 +17,65 @@
 
 ## Punctuation
 
+* [Punctuation and Syllabification](https://www.biblicaltraining.org/lecture/26864), by Bill Mounce
+
 ## Syllabification
+
+* [Punctuation and Syllabification](https://www.biblicaltraining.org/lecture/26864), by Bill Mounce
 
 ## Nouns
 
+* [Introduction to English Nouns](https://www.biblicaltraining.org/lecture/26865), by Bill Mounce
+
 ## Nominative
+
+* [Nominative and Accusative; Definite Article](https://www.biblicaltraining.org/lecture/26866), by Bill Mounce
 
 ## Accusative
 
-## Article
+* [Nominative and Accusative; Definite Article](https://www.biblicaltraining.org/lecture/26866), by Bill Mounce
+
+## Definite Article
+
+* [Nominative and Accusative; Definite Article](https://www.biblicaltraining.org/lecture/26866), by Bill Mounce
 
 ## Genitive
 
+* [Genitive and Dative](https://www.biblicaltraining.org/biblical-greek/william-mounce), by Bill Mounce
+
 ## Dative
 
+* [Genitive and Dative](https://www.biblicaltraining.org/biblical-greek/william-mounce), by Bill Mounce
+
 ## Prepositions
+
+* [Prepositions](https://www.biblicaltraining.org/lecture/26868), by Bill Mounce
 
 ## εἰμί
 
 ## Adjectives
 
+* [https://www.biblicaltraining.org/lecture/26869](https://www.biblicaltraining.org/lecture/26869), by Bill Mounce
+
 ## Third Declension
+
+* [Third Declension](https://www.biblicaltraining.org/lecture/26870), by Bill Mounce
 
 ## First and Second Person Personal Pronouns
 
+* [First and Second Person Personal Pronouns](https://www.biblicaltraining.org/lecture/26871), by Bill Mounce
+
 ## αὐτός
+
+* [αὐτός](https://www.biblicaltraining.org/lecture/26872), by Bill Mounce
 
 ## Demonstrative Pronouns/Adjectives
 
+* [Demonstrative Pronouns/Adjectives](https://www.biblicaltraining.org/lecture/26873), by Bill Mounce
+
 ## Relative Pronouns
+
+* [Relative Pronoun](https://www.biblicaltraining.org/lecture/26874], Bill Mounce
 
 ## Verbs
 
