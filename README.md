@@ -37,6 +37,7 @@
 * [Paul Nitz](https://www.youtube.com/channel/UC9DOj8F2WXeog9SBWMcMW6Q) - communicative, restored Koine
 * [BiblicalGreek](https://www.youtube.com/user/BiblicalGreek/videos) - John Schwandt
 * [Old Randall Buth clips](https://www.youtube.com/watch?v=zXIQXzRatTM) - familiar faces!
+* [Todd Chipman](https://www.youtube.com/user/toddchips/videos) - my MBTS Greek professor
 
 ## Online learning platforms
 
