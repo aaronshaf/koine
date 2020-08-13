@@ -52,6 +52,7 @@
 ## Audio
 
 * [Philippians 1 in Koine](https://archive.org/details/philippians01), by Mark Jeong - "pronunciation is similar to Randall Buth's"
+* [Philemon in Koine](https://archive.org/details/philemon_201912), by Mark Jeong
 
 ---
 
@@ -59,3 +60,4 @@
 
 * [Linguistics & New Testament Greek Conference 2019](https://www.youtube.com/playlist?list=PL2DisXS8LigZjkwFHQrEF81hD7XwWzIy0) (YouTube playlist)
 * [At a Loss for Words: How a flawed idea is teaching millions of kids to be poor readers](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
+* [B-Greek: The Biblical Greek Forum](https://www.ibiblio.org/bgreek/forum/index.php)
