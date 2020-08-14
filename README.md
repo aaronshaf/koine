@@ -9,13 +9,6 @@
 
 ## Pronunciation
 
-| Characater  | Meaning |
-| ------------- | ------------- |
-| θεός,  | comma  |
-| θεός.  | period  |
-| θεός·  | semicolon  |
-| θεός;  | question mark  |
-
 * [The Alphabet and Pronunciation](https://www.biblicaltraining.org/alphabet-and-pronunciation/biblical-greek), by Bill Mounce
 * [Pronunciation](https://www.youtube.com/watch?v=VWOjBulEyrs) (YouTube), by Randall Buth
 * The Role for Pronunciation in Koine Greek: [YouTube](https://www.youtube.com/watch?v=VWOjBulEyrs), [PDF](https://www.biblicallanguagecenter.com/wp-content/uploads/2019/05/Role-Greek-Pronunciation-Buth-Handout-2019-SEBTS.pdf), by Randall Buth
@@ -23,6 +16,20 @@
 * [Ranieri's Greek Pronunciation Chronology](https://docs.google.com/spreadsheets/d/1fv46XgPPJy-ky9FUSApiemOVmtc8i6q7ZL5XkqtmMWA/edit#gid=1919026778) (spreadsheet)
 
 ## Punctuation and Syllabification
+
+| Characater  | Meaning |
+| ------------- | ------------- |
+| θεός,  | comma  |
+| θεός.  | period  |
+| θεός·  | semicolon  |
+| θεός;  | question mark  |
+
+* Apostrophe
+  * Elision
+* Accents
+  * Acute
+  * Grave
+  * Circumflex
 
 * [Punctuation and Syllabification](https://www.biblicaltraining.org/lecture/26864), by Bill Mounce
 * [Punctuation and Syllabification](https://www.youtube.com/watch?v=M7KTvfrcPeU), by Todd Chipman
