@@ -86,6 +86,7 @@
 ## Contract Verbs
 
 * [Contract Verbs](https://www.biblicaltraining.org/lecture/26877), by Bill Mounce
+* [Contract Verbs](https://www.youtube.com/watch?v=KMOyl514RyY), by Todd Chipman
 
 ## Present Middle/Passive Indicative
 
