@@ -103,6 +103,7 @@
 ## Verbal Roots (Patterns 2 – 4)
 
 * [Verbal Roots and Other Forms of the Future](https://www.biblicaltraining.org/lecture/26880), by Bill Mounce
+* [Verbal Roots and Other Forms of the Future](https://www.youtube.com/watch?v=zDugT39inlE), by Todd Chipman
 
 ---
 
