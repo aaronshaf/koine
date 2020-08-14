@@ -153,6 +153,7 @@
 * [Sixth Renaissance](https://www.youtube.com/watch?v=-ZwJKvvdQTI), by Christophe Rico
 * [Mounce overheads for The Basics of Biblical Greek](http://ntgreek.org/swc/GreekCO411/mounce.pdf) (PDF)
 * [biblicallanguages.net course handouts](https://biblicallanguages.net/language-courses-i-teach/greek-grammar-i-first-year-course/course-handouts/) (PDFs)
+* [Linguistic consciousness in Erasmus Desiderius’ De conscribendis epistolis and De recta Latini Graecique sermonis pronuntiatione](http://www.glossa.dk/lingu/erasm.html?fbclid=IwAR1Pz-yHNK2MwfPL8TkmZKPpTD3rle2jVzM5f3D76NBma9FJbJnMpnmlR2Y), by George Hinge
 
 ### People
 
