@@ -145,6 +145,13 @@
 
 ---
 
+## Questions
+
+* What are the various meanings of "long" and "short" vowels? 
+  * "short" can _either_ refer to closed/open, or to whether lengthened?
+* What are the American idiosyncracies of Erasmian?
+* What are the differences between different constructed pronunciations (say, between Polis Institute and Biblical Language Center)
+
 ## Unsorted
 
 * [Linguistics & New Testament Greek Conference 2019](https://www.youtube.com/playlist?list=PL2DisXS8LigZjkwFHQrEF81hD7XwWzIy0) (YouTube playlist)
