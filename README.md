@@ -70,6 +70,7 @@
 ## Demonstrative Pronouns/Adjectives
 
 * [Demonstrative Pronouns/Adjectives](https://www.biblicaltraining.org/lecture/26873), by Bill Mounce
+* [Demonstrative Pronouns and Adjectives](https://www.youtube.com/watch?v=fSR0NXq3o9Q), by Todd Chipman
 
 ## Relative Pronouns
 
