@@ -75,9 +75,10 @@
 
 * [Relative Pronoun](https://www.biblicaltraining.org/lecture/26874], by Bill Mounce
 
-## Verbs
+## Introduction to Verbs
 
 * [Introduction to Verbs](https://www.biblicaltraining.org/lecture/26875), by Bill Mounce
+* [Introduction to Verbs], by Todd Chipman
 
 ## Present Active Indicative
 
