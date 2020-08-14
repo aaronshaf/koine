@@ -39,13 +39,10 @@
 
 * [Nominative and Accusative; Definite Article](https://www.biblicaltraining.org/lecture/26866), by Bill Mounce
 
-## Genitive
+## Genitive and Dative
 
 * [Genitive and Dative](https://www.biblicaltraining.org/biblical-greek/william-mounce), by Bill Mounce
-
-## Dative
-
-* [Genitive and Dative](https://www.biblicaltraining.org/biblical-greek/william-mounce), by Bill Mounce
+* [Genitive and Dative](https://www.youtube.com/watch?v=P-oUWb-LtPM), by Todd Chipman
 
 ## Prepositions
 
