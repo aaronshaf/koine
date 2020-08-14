@@ -150,7 +150,7 @@
 * What are the various meanings of "long" and "short" vowels? 
   * "short" can _either_ refer to closed/open, or to whether lengthened?
 * What are the American idiosyncracies of Erasmian?
-* What are the differences between different constructed pronunciations (say, between Polis Institute and Biblical Language Center)
+* What are the differences between different constructed pronunciations (say, between Polis Institute and Biblical Language Center)?
 
 ## Unsorted
 
