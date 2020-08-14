@@ -165,6 +165,7 @@
   * "short" can _either_ refer to closed/open, or to whether lengthened?
 * What are the American idiosyncracies of Erasmian?
 * What are the differences between different constructed pronunciations (say, between Polis Institute and Biblical Language Center)?
+* Are there audible examples (i.e. on YouTube) of classic Greek pitch accents instead of stress accents?
 
 ## Unsorted
 
