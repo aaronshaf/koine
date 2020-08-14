@@ -74,7 +74,8 @@
 
 ## Relative Pronouns
 
-* [Relative Pronoun](https://www.biblicaltraining.org/lecture/26874], by Bill Mounce
+* [Relative Pronoun](https://www.biblicaltraining.org/lecture/26874), by Bill Mounce
+* [Relative Pronoun](https://www.youtube.com/watch?v=c6jnEwmq6Ho), by Todd Chipman
 
 ## Introduction to Verbs
 
