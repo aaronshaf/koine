@@ -15,29 +15,19 @@
 * [Lucian Pronunciation of Ancient Greek](https://www.youtube.com/watch?v=Dt9z5Gvp3MM) (YouTube), by Luke Ranieri - "The Lucian Pronunciation of Ancient Greek... is a system that is historically valid, aesthetically pleasing, pedagogically useful, and unifying among standards." Claims to be closer to Modern Greek _and_ more historically accurate.
 * [Ranieri's Greek Pronunciation Chronology](https://docs.google.com/spreadsheets/d/1fv46XgPPJy-ky9FUSApiemOVmtc8i6q7ZL5XkqtmMWA/edit#gid=1919026778) (spreadsheet)
 
-## Punctuation
+## Punctuation and Syllabification
 
 * [Punctuation and Syllabification](https://www.biblicaltraining.org/lecture/26864), by Bill Mounce
-
-## Syllabification
-
-* [Punctuation and Syllabification](https://www.biblicaltraining.org/lecture/26864), by Bill Mounce
+* [Punctuation and Syllabification](https://www.youtube.com/watch?v=M7KTvfrcPeU), by Todd Chipman
 
 ## Nouns
 
 * [Introduction to English Nouns](https://www.biblicaltraining.org/lecture/26865), by Bill Mounce
 
-## Nominative
+## Nominative and Accusative; Definite Article
 
 * [Nominative and Accusative; Definite Article](https://www.biblicaltraining.org/lecture/26866), by Bill Mounce
-
-## Accusative
-
-* [Nominative and Accusative; Definite Article](https://www.biblicaltraining.org/lecture/26866), by Bill Mounce
-
-## Definite Article
-
-* [Nominative and Accusative; Definite Article](https://www.biblicaltraining.org/lecture/26866), by Bill Mounce
+* [Nominative and Accusative; Definite Article](https://www.youtube.com/watch?v=wpQpJE9lgiY), by Todd Chipman
 
 ## Genitive and Dative
 
