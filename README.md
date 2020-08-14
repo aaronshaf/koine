@@ -57,6 +57,7 @@
 ## Third Declension
 
 * [Third Declension](https://www.biblicaltraining.org/lecture/26870), by Bill Mounce
+* [Third Declension](https://www.youtube.com/watch?v=buefGiqSq2I), by Todd Chipman
 
 ## First and Second Person Personal Pronouns
 
