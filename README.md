@@ -38,6 +38,7 @@
 ## Prepositions
 
 * [Prepositions](https://www.biblicaltraining.org/lecture/26868), by Bill Mounce
+* [Prepositions as Vocab](https://www.youtube.com/watch?v=2nXRq2KDU-g), by Todd Chipman
 
 ## εἰμί
 
