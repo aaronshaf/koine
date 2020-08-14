@@ -52,7 +52,7 @@
 
 ## Adjectives
 
-* [https://www.biblicaltraining.org/lecture/26869](https://www.biblicaltraining.org/lecture/26869), by Bill Mounce
+* [Adjectives](https://www.biblicaltraining.org/lecture/26869), by Bill Mounce
 
 ## Third Declension
 
@@ -98,6 +98,7 @@
 ## Future Active and Middle Indicative
 
 * [Future Active/Middle Indicative](https://www.biblicaltraining.org/lecture/26879), by Bill Mounce
+* [Future Active and Middle Indicative](https://www.youtube.com/watch?v=Xy-zbmO6080), by Todd Chipman
 
 ## Verbal Roots (Patterns 2 – 4)
 
