@@ -42,7 +42,8 @@
 ## Genitive and Dative
 
 * [Genitive and Dative](https://www.biblicaltraining.org/biblical-greek/william-mounce), by Bill Mounce
-* [Genitive and Dative](https://www.youtube.com/watch?v=P-oUWb-LtPM), by Todd Chipman
+* [Genitive and Dative (2019)](https://www.youtube.com/watch?v=P-oUWb-LtPM), by Todd Chipman
+* [Genitive and Dative (2014)](https://www.youtube.com/watch?v=XUbwrM6Kd1c), by Todd Chipman
 
 ## Prepositions
 
