@@ -72,15 +72,15 @@
 * [Demonstrative Pronouns/Adjectives](https://www.biblicaltraining.org/lecture/26873), by Bill Mounce
 * [Demonstrative Pronouns and Adjectives](https://www.youtube.com/watch?v=fSR0NXq3o9Q), by Todd Chipman
 
-## Relative Pronouns
+## Relative Pronoun
 
 * [Relative Pronoun](https://www.biblicaltraining.org/lecture/26874), by Bill Mounce
-* [Relative Pronoun](https://www.youtube.com/watch?v=c6jnEwmq6Ho), by Todd Chipman
+* [Relative Pronoun (2019)](https://www.youtube.com/watch?v=c6jnEwmq6Ho), by Todd Chipman
+* [Relative Pronoun (2014)](https://www.youtube.com/watch?v=9oMj6rcdVNk), by Todd Chipman
 
 ## Introduction to Verbs
 
 * [Introduction to Verbs](https://www.biblicaltraining.org/lecture/26875), by Bill Mounce
-* [Introduction to Verbs], by Todd Chipman
 
 ## Present Active Indicative
 
