@@ -50,6 +50,10 @@
 * [Genitive and Dative (2019)](https://www.youtube.com/watch?v=P-oUWb-LtPM), by Todd Chipman
 * [Genitive and Dative (2014)](https://www.youtube.com/watch?v=XUbwrM6Kd1c), by Todd Chipman
 
+* Dative Proper (“to”)
+* Locative (“in,” “with”)
+* Instrumental (“by”)
+
 ## Prepositions
 
 * [Prepositions](https://www.biblicaltraining.org/lecture/26868), by Bill Mounce
