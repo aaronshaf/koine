@@ -43,6 +43,7 @@
 
 * [Nominative and Accusative; Definite Article](https://www.biblicaltraining.org/lecture/26866), by Bill Mounce
 * [Nominative and Accusative; Definite Article](https://www.youtube.com/watch?v=wpQpJE9lgiY), by Todd Chipman
+* [Aspects of Definiteness in Greek](https://www.academia.edu/2358152/Aspects_of_Definiteness_in_Greek), by Maria Napoli
 
 ## Genitive and Dative
 
