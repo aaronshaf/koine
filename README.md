@@ -128,6 +128,7 @@
 
 * [Biblical Greek](https://www.biblicaltraining.org/biblical-greek/william-mounce), by Bill Mounce
 * [Athenaze](https://athenaze.com/introduction/), by John Schwandt
+* [Ancient Greek For Everyone](https://ancientgreek.pressbooks.com/chapter/13/)
 
 ### Communicative
 
