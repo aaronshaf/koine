@@ -9,6 +9,7 @@
 
 ## Pronunciation
 
+* [Koine Greek Pronunciation](https://www.polisjerusalem.org/koine-greek-pronunciation-%EF%BB%BF/), by Christophe Rico
 * [The Alphabet and Pronunciation](https://www.biblicaltraining.org/alphabet-and-pronunciation/biblical-greek), by Bill Mounce
 * [Pronunciation](https://www.youtube.com/watch?v=VWOjBulEyrs) (YouTube), by Randall Buth
 * The Role for Pronunciation in Koine Greek: [YouTube](https://www.youtube.com/watch?v=VWOjBulEyrs), [PDF](https://www.biblicallanguagecenter.com/wp-content/uploads/2019/05/Role-Greek-Pronunciation-Buth-Handout-2019-SEBTS.pdf), by Randall Buth
@@ -172,6 +173,12 @@
 * [Philippians 1 in Koine](https://archive.org/details/philippians01), by Mark Jeong - "pronunciation is similar to Randall Buth's"
 * [Philemon in Koine](https://archive.org/details/philemon_201912), by Mark Jeong
 * [Athenaze](https://www.youtube.com/watch?v=rsKhcHpYk00), by Luke Ranieri
+* [Ruth (LXX)](https://www.youtube.com/watch?v=3-I9MuIGxWI), by Christophe Rico
+* [The Gospel of John](https://www.youtube.com/watch?v=uv0Y4pVCUDc), by Christophe Rico
+* [Galatians](https://www.youtube.com/watch?v=_7cBD6HLKRU), by Christophe Rico
+* [Philemon](https://www.youtube.com/watch?v=NIUbqbCpNkk), by Christophe Rico
+* [1st John](https://www.youtube.com/watch?v=D9lcSFgUBjE), by Christophe Rico
+* [James](https://www.youtube.com/watch?v=Se3UOFZTAaQ), by Christophe Rico
 
 ---
 
