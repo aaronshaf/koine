@@ -11,7 +11,6 @@
 
 * [Koine Greek Pronunciation](https://www.polisjerusalem.org/koine-greek-pronunciation-%EF%BB%BF/), by Christophe Rico - "The pronunciation that is used at The Polis Institute is a more conservative one, quite close to the one that Erasmus reconstructed for Classical Greek"
 * [The Alphabet and Pronunciation](https://www.biblicaltraining.org/alphabet-and-pronunciation/biblical-greek), by Bill Mounce
-* [Pronunciation](https://www.youtube.com/watch?v=VWOjBulEyrs) (YouTube), by Randall Buth
 * The Role for Pronunciation in Koine Greek: [YouTube](https://www.youtube.com/watch?v=VWOjBulEyrs), [PDF](https://www.biblicallanguagecenter.com/wp-content/uploads/2019/05/Role-Greek-Pronunciation-Buth-Handout-2019-SEBTS.pdf), by Randall Buth
 * [Lucian Pronunciation of Ancient Greek](https://www.youtube.com/watch?v=Dt9z5Gvp3MM) (YouTube), by Luke Ranieri - "The Lucian Pronunciation of Ancient Greek... is a system that is historically valid, aesthetically pleasing, pedagogically useful, and unifying among standards." Claims to be closer to Modern Greek _and_ more historically accurate.
 * [Ranieri's Greek Pronunciation Chronology](https://docs.google.com/spreadsheets/d/1fv46XgPPJy-ky9FUSApiemOVmtc8i6q7ZL5XkqtmMWA/edit#gid=1919026778) (spreadsheet)
