@@ -21,6 +21,12 @@
 * [How to pronounce χαῖρε in Greek | Classical Greek, Attic Greek, Koine Greek, Modern Greek](https://www.youtube.com/watch?v=yCv5dK1DOgw), by Luke Ranieri
 * [Anachronisms in Ancient Greek Pronunciation | Classical Greek, Attic Greek, Koine Greek, Modern](https://www.youtube.com/watch?v=UNPFzeeseXQ), by Luke Ranieri
 
+### Terms
+
+* Fricatives
+* Aspiration
+* Phonemes
+
 ## Punctuation and Syllabification
 
 | Characater  | Meaning |
