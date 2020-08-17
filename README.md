@@ -20,6 +20,7 @@
 * [Pronunciation of Ancient Greek in teaching](https://en.wikipedia.org/wiki/Pronunciation_of_Ancient_Greek_in_teaching)
 * [How to pronounce χαῖρε in Greek | Classical Greek, Attic Greek, Koine Greek, Modern Greek](https://www.youtube.com/watch?v=yCv5dK1DOgw), by Luke Ranieri
 * [Anachronisms in Ancient Greek Pronunciation | Classical Greek, Attic Greek, Koine Greek, Modern](https://www.youtube.com/watch?v=UNPFzeeseXQ), by Luke Ranieri
+* [Lucian Pronunciation of Ancient Greek](https://www.youtube.com/watch?v=Dt9z5Gvp3MM), by Luke Ranieri & Raphael Turrigiano
 
 ### Terms
 
