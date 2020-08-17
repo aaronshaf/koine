@@ -215,6 +215,7 @@
 
 * [Kata Biblon Wiki Lexicon of the Greek New Testament](https://lexicon.katabiblon.com/)
 * [BibleWebApp](http://biblewebapp.com/study/)
+* [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/)
 
 ## Unsorted
 
