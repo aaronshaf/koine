@@ -218,8 +218,8 @@
 
 * Christophe Rico
 * Randall Buth
-* Benjamin Kantor
-* Michael Halcomb
+  * Benjamin Kantor
+  * Michael Halcomb
 * Luke Ranieri
 
 ## Textual Criticism
