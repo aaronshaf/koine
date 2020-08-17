@@ -148,6 +148,7 @@
 
 * [Biblical Language Center](https://www.biblicallanguagecenter.com/)
 * [Communicative Koine](https://www.youtube.com/playlist?list=PLpxcmJ23ymcWL0Hx5kndU1zS5m6iQFL_8) (YouTube playlist), by Paul D. Nitz
+* [omilein.org](omilein.org)
 
 ## YouTube channels
 
