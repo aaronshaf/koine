@@ -9,7 +9,7 @@
 
 ## Pronunciation
 
-* [Koine Greek Pronunciation](https://www.polisjerusalem.org/koine-greek-pronunciation-%EF%BB%BF/), by Christophe Rico
+* [Koine Greek Pronunciation](https://www.polisjerusalem.org/koine-greek-pronunciation-%EF%BB%BF/), by Christophe Rico - "The pronunciation that is used at The Polis Institute is a more conservative one, quite close to the one that Erasmus reconstructed for Classical Greek"
 * [The Alphabet and Pronunciation](https://www.biblicaltraining.org/alphabet-and-pronunciation/biblical-greek), by Bill Mounce
 * [Pronunciation](https://www.youtube.com/watch?v=VWOjBulEyrs) (YouTube), by Randall Buth
 * The Role for Pronunciation in Koine Greek: [YouTube](https://www.youtube.com/watch?v=VWOjBulEyrs), [PDF](https://www.biblicallanguagecenter.com/wp-content/uploads/2019/05/Role-Greek-Pronunciation-Buth-Handout-2019-SEBTS.pdf), by Randall Buth
