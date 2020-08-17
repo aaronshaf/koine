@@ -211,6 +211,11 @@
 * What are the differences between different constructed pronunciations (say, between Polis Institute and Biblical Language Center)?
 * Are there audible examples (i.e. on YouTube) of classic Greek pitch accents instead of stress accents?
 
+## Web sites
+
+* [Kata Biblon Wiki Lexicon of the Greek New Testament](https://lexicon.katabiblon.com/)
+* [BibleWebApp](http://biblewebapp.com/study/)
+
 ## Unsorted
 
 * [Linguistics & New Testament Greek Conference 2019](https://www.youtube.com/playlist?list=PL2DisXS8LigZjkwFHQrEF81hD7XwWzIy0) (YouTube playlist)
