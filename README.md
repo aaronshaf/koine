@@ -177,7 +177,7 @@
 * [The Gospel of John](https://www.youtube.com/watch?v=uv0Y4pVCUDc), by Christophe Rico
 * [Galatians](https://www.youtube.com/watch?v=_7cBD6HLKRU), by Christophe Rico
 * [Philemon](https://www.youtube.com/watch?v=NIUbqbCpNkk), by Christophe Rico
-* [The Gospel of John](https://www.youtube.com/watch?v=uv0Y4pVCUDc), by Christophe Rico
+* [Revelation](https://www.youtube.com/watch?v=9ip5RbHQZw0), by Christophe Rico
 * [1st John](https://www.youtube.com/watch?v=D9lcSFgUBjE), by Christophe Rico
 * [James](https://www.youtube.com/watch?v=Se3UOFZTAaQ), by Christophe Rico
 
