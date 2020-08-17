@@ -18,6 +18,7 @@
 * [How do we know how Koine Greek was pronounced?](https://www.koinegreek.com/koine-pronunciation) (koinegreek.com)
 * [Comparison of Greek Pronunciation Systems](https://www.triviumpursuit.com/articles/comparison_of_greek_pronunciation_systems.php)
 * [Pronunciation of Ancient Greek in teaching](https://en.wikipedia.org/wiki/Pronunciation_of_Ancient_Greek_in_teaching)
+* [How to pronounce χαῖρε in Greek | Classical Greek, Attic Greek, Koine Greek, Modern Greek](https://www.youtube.com/watch?v=yCv5dK1DOgw), by Luke Ranieri
 
 ## Punctuation and Syllabification
 
