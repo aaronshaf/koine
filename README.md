@@ -62,10 +62,11 @@
 
 ## εἰμί
 
+| Person | Number | Form | Meaning |
+| --- | --- | --- | --- |
 | 1st | sg	| εἰμί	| I am |
 | 2nd | sg	| εἶ	| You are |
 | 3rd | sg	| ἐστίν	| He/she/it is |
-
 | 1st | pl	| ἐσμέν	| We are |
 | 2nd | pl	| ἐστέ	| Y'all are |
 | 3rd | pl	| εἰσίν	| They are |
