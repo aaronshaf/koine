@@ -247,9 +247,6 @@
   * Benjamin Kantor
   * Michael Halcomb
 * Luke Ranieri
-
-### Other
-
 * Seumas Macdonald
 
 ## Textual Criticism
