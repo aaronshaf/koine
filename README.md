@@ -87,6 +87,7 @@
 ## Adjectives
 
 * [Adjectives](https://www.biblicaltraining.org/lecture/26869), by Bill Mounce
+* Overheads for BBG Workbook, 4th edition: [Keynote](http://bbg.billmounce.com/Chapter_09_(exercises).key), [PowerPoint](http://bbg.billmounce.com/Chapter_09_(exercises).pptx)
 
 ## Third Declension
 
