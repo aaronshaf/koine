@@ -144,7 +144,7 @@
 * [A short guide to asking meaning-based questions in Greek](https://thepatrologist.com/2020/08/12/greek-question-words-for-talking-about-stuff/) (PDF), compiled by Seumas Macdonald
 * [Greek Grammar terms in Greek](https://thepatrologist.com/2020/07/21/a-cheat-sheet-for-greek-grammar-terms/) (PDF), compiled by Seumas Macdonald
 
-## Courses
+## Self-paced courses
 
 * [Biblical Greek](https://www.biblicaltraining.org/biblical-greek/william-mounce), by Bill Mounce
 * [Athenaze](https://athenaze.com/introduction/), by John Schwandt
@@ -163,6 +163,7 @@
 * [Biblical Language Center](https://www.biblicallanguagecenter.com/)
 * [Conversational Koine](https://www.conversationalkoine.com/)
 * [omilein.org](omilein.org)
+* [Seumas Macdonald](https://thepatrologist.com/shop/)
 
 ## YouTube channels
 
@@ -245,6 +246,10 @@
   * Benjamin Kantor
   * Michael Halcomb
 * Luke Ranieri
+
+### Other
+
+* Seumas Macdonald
 
 ## Textual Criticism
 
