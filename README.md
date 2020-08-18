@@ -236,6 +236,7 @@
 ## Memorization, retaining knowledge
 
 * [Making long-term memories in minutes: a spaced learning pattern from memory research in education](https://www.frontiersin.org/articles/10.3389/fnhum.2013.00589/full), by Paul Kelley and Terry Whatson
+* [Spaced Repetition Promotes Efficient and Effective Learning: Policy Implications for Instruction](https://www.dartmouth.edu/~cogedlab/pubs/Kang(2016,PIBBS).pdf) (PDF), by Sean H. K. Kang
 
 ### People
 
