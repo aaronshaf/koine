@@ -233,6 +233,10 @@
 * [What is a mora?](https://linguistics.stackexchange.com/questions/2148/what-is-a-mora) (Stack Exchange) -  also see "Mora Theory in Linguistics"
 * [Computer Assisted Language Learning - Koine Greek](http://call.canil.ca/koine/Adj.html) - charts
 
+## Memorization, retaining knowledge
+
+* [Making long-term memories in minutes: a spaced learning pattern from memory research in education](https://www.frontiersin.org/articles/10.3389/fnhum.2013.00589/full), by Paul Kelley and Terry Whatson
+
 ### People
 
 #### Divinity studies
