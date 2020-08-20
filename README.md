@@ -142,6 +142,10 @@
 
 ---
 
+## Accenting rules
+
+* [Ancient Greek Accents](https://www.youtube.com/watch?v=EWXU78SFQaQ)(YouTube) (channel: UNH Latin)
+
 ## Conversation
 
 * [A short guide to asking meaning-based questions in Greek](https://thepatrologist.com/2020/08/12/greek-question-words-for-talking-about-stuff/) (PDF), compiled by Seumas Macdonald
