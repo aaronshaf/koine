@@ -236,6 +236,7 @@
 * [Linguistic consciousness in Erasmus Desiderius’ De conscribendis epistolis and De recta Latini Graecique sermonis pronuntiatione](http://www.glossa.dk/lingu/erasm.html?fbclid=IwAR1Pz-yHNK2MwfPL8TkmZKPpTD3rle2jVzM5f3D76NBma9FJbJnMpnmlR2Y), by George Hinge
 * [What is a mora?](https://linguistics.stackexchange.com/questions/2148/what-is-a-mora) (Stack Exchange) -  also see "Mora Theory in Linguistics"
 * [Computer Assisted Language Learning - Koine Greek](http://call.canil.ca/koine/Adj.html) - charts
+* [Master New Testament Greek](https://www.youtube.com/c/MasterNewTestamentGreek/videos) (YouTube)
 
 ## Memorization, retaining knowledge
 
