@@ -238,6 +238,7 @@
 * [Computer Assisted Language Learning - Koine Greek](http://call.canil.ca/koine/Adj.html) - charts
 * [Master New Testament Greek](https://www.youtube.com/c/MasterNewTestamentGreek/videos) (YouTube)
 * [New Testament Virtual Manuscript Room](http://ntvmr.uni-muenster.de/home)
+* [mastergreek.com parsing app](https://mastergreek.com/)
 
 ## Memorization, retaining knowledge
 
