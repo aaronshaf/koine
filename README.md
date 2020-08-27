@@ -237,6 +237,7 @@
 * [What is a mora?](https://linguistics.stackexchange.com/questions/2148/what-is-a-mora) (Stack Exchange) -  also see "Mora Theory in Linguistics"
 * [Computer Assisted Language Learning - Koine Greek](http://call.canil.ca/koine/Adj.html) - charts
 * [Master New Testament Greek](https://www.youtube.com/c/MasterNewTestamentGreek/videos) (YouTube)
+* [New Testament Virtual Manuscript Room](http://ntvmr.uni-muenster.de/home)
 
 ## Memorization, retaining knowledge
 
