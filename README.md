@@ -182,6 +182,7 @@
 * [Old Randall Buth clips](https://www.youtube.com/watch?v=zXIQXzRatTM) - familiar faces!
 * [Todd Chipman](https://www.youtube.com/user/toddchips/videos) - my MBTS Greek professor
 * [ΟΜΙΛΕΙΝ](https://www.youtube.com/channel/UCYcYNZosvYpsIJzthhXkcDQ/videos)
+* [Magister Circulus](https://www.youtube.com/channel/UCUTUPhsuCSN2xfSbzlFlFjA) - Easy introductory lessons in Attic Greek
 
 ## Online learning platforms
 
