@@ -239,6 +239,8 @@
 * [Master New Testament Greek](https://www.youtube.com/c/MasterNewTestamentGreek/videos) (YouTube)
 * [New Testament Virtual Manuscript Room](http://ntvmr.uni-muenster.de/home)
 * [mastergreek.com parsing app](https://mastergreek.com/)
+* [LGPSI](https://thepatrologist.com/2019/09/02/introducing-lgpsi-a-guide-for-the-uncertain/)
+* [ὁ ἑταῖρος](https://mallioch.github.io/hetairos/) (spinoff)
 
 ## Memorization, retaining knowledge
 
