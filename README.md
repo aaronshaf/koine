@@ -228,6 +228,7 @@
 
 ## Unsorted
 
+* [Introduction to Ancient Greek](https://thepatrologist.teachable.com/courses/ancient-greek-101/lectures/13676695) (teachable.com)
 * [Linguistics & New Testament Greek Conference 2019](https://www.youtube.com/playlist?list=PL2DisXS8LigZjkwFHQrEF81hD7XwWzIy0) (YouTube playlist)
 * [At a Loss for Words: How a flawed idea is teaching millions of kids to be poor readers](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
 * [B-Greek: The Biblical Greek Forum](https://www.ibiblio.org/bgreek/forum/index.php)
