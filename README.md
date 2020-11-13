@@ -18,10 +18,10 @@
 * [Ranieri's Greek Pronunciation Chronology](https://docs.google.com/spreadsheets/d/1fv46XgPPJy-ky9FUSApiemOVmtc8i6q7ZL5XkqtmMWA/edit#gid=1919026778) (spreadsheet)
 * [Iotacism](https://en.wikipedia.org/wiki/Iotacism) (Wikipedia) - vowels merged over time
 * [How do we know how Koine Greek was pronounced?](https://www.koinegreek.com/koine-pronunciation) (koinegreek.com)
+* [Pronunciation of the Voiced Stops β δ γ following Nasals in Koine Greek](https://www.koinegreek.com/post/koine-greek-video-blog-4-pronunciation-of-the-voiced-stops-%CE%B2-%CE%B4-%CE%B3-following-nasals-in-koine-greek) (koinegreek.com)
 * [Comparison of Greek Pronunciation Systems](https://www.triviumpursuit.com/articles/comparison_of_greek_pronunciation_systems.php)
 * [Pronunciation of Ancient Greek in teaching](https://en.wikipedia.org/wiki/Pronunciation_of_Ancient_Greek_in_teaching)
 * [How to pronounce χαῖρε in Greek | Classical Greek, Attic Greek, Koine Greek, Modern Greek](https://www.youtube.com/watch?v=yCv5dK1DOgw), by Luke Ranieri
-* [Anachronisms in Ancient Greek Pronunciation | Classical Greek, Attic Greek, Koine Greek, Modern](https://www.youtube.com/watch?v=UNPFzeeseXQ), by Luke Ranieri
 
 ### Terms
 
