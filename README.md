@@ -183,6 +183,7 @@
 * [Todd Chipman](https://www.youtube.com/user/toddchips/videos) - my MBTS Greek professor
 * [ΟΜΙΛΕΙΝ](https://www.youtube.com/channel/UCYcYNZosvYpsIJzthhXkcDQ/videos)
 * [Magister Circulus](https://www.youtube.com/channel/UCUTUPhsuCSN2xfSbzlFlFjA) - Easy introductory lessons in Attic Greek
+* [The Patrologist](https://www.youtube.com/channel/UCKvJmmtC1JYVLMdTTT98bAw/videos) - Seumas MacDhòmhnaill
 
 ## Online learning platforms
 
