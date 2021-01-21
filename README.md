@@ -140,6 +140,11 @@
 * [Verbal Roots and Other Forms of the Future](https://www.biblicaltraining.org/lecture/26880), by Bill Mounce
 * [Verbal Roots and Other Forms of the Future](https://www.youtube.com/watch?v=zDugT39inlE), by Todd Chipman
 
+## Imperfect Active Indicative
+
+* [Imperfect Indicative](https://www.biblicaltraining.org/lecture/26881), by Bill Mounce
+* [Imperfect Active Indicative](https://www.youtube.com/watch?v=uuRNi7F919w), by Todd Chipman
+
 ---
 
 ## Accenting rules
