@@ -235,6 +235,7 @@
 ## Unsorted
 
 * [Stoffel's An Epitome Of The New Testament](https://sleeptillseven.github.io/stoffel-an-epitome-of-the-new-testament/stoffel-epitome-main.html)
+* [A Standardized Test for Communicative Koine Greek (Needed Resources)](https://danielstreett.com/2011/11/09/a-standardized-test-for-communicative-koine-greek-needed-resources/)
 * [Introduction to Ancient Greek](https://thepatrologist.teachable.com/courses/ancient-greek-101/lectures/13676695) (teachable.com)
 * [Linguistics & New Testament Greek Conference 2019](https://www.youtube.com/playlist?list=PL2DisXS8LigZjkwFHQrEF81hD7XwWzIy0) (YouTube playlist)
 * [At a Loss for Words: How a flawed idea is teaching millions of kids to be poor readers](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
