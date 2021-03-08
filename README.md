@@ -234,6 +234,7 @@
 
 ## Unsorted
 
+* [Greek New Testament](https://www.laparola.net/greco/) (laparola.net)
 * [Stoffel's An Epitome Of The New Testament](https://sleeptillseven.github.io/stoffel-an-epitome-of-the-new-testament/stoffel-epitome-main.html)
 * [A Standardized Test for Communicative Koine Greek (Needed Resources)](https://danielstreett.com/2011/11/09/a-standardized-test-for-communicative-koine-greek-needed-resources/)
 * [Introduction to Ancient Greek](https://thepatrologist.teachable.com/courses/ancient-greek-101/lectures/13676695) (teachable.com)
