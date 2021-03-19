@@ -252,6 +252,7 @@
 * [mastergreek.com parsing app](https://mastergreek.com/)
 * [LGPSI](https://thepatrologist.com/2019/09/02/introducing-lgpsi-a-guide-for-the-uncertain/)
 * [ὁ ἑταῖρος](https://mallioch.github.io/hetairos/) (spinoff)
+* [The Participles Song](https://www.youtube.com/watch?v=VY5trzl8blI) (Danny Zacharias)
 
 ## Memorization, retaining knowledge
 
